@@ -26,3 +26,11 @@ This Android app demonstrates landmark recognition using TensorFlow Lite. It all
 
 The model used is landmark recognition which can downloaded from <a href="https://www.kaggle.com/models/google/landmarks"> Here </a>
 
+
+## DemoVideo:
+
+
+https://github.com/TeniG/LandmarkRecognitionTensorFlowLiteDemoApp/assets/43024245/ca396028-ddc7-427b-b6f2-97b4c7b0b638
+
+
+
